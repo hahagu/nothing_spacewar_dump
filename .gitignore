@@ -1,0 +1,7 @@
+modem.img
+system/system/priv-app/NTCamera/NTCamera.apk
+product/priv-app/Messages/Messages.apk
+product/priv-app/GmsCore/GmsCore.apk
+product/priv-app/Velvet/Velvet.apk
+product/app/WebViewGoogle/WebViewGoogle.apk
+system_ext/apex/com.android.vndk.v30.apex
